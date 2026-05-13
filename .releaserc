@@ -1,4 +1,5 @@
 {
 	"branches": ["master"],
+  "repositoryUrl": "https://github.com/mandragora-hub/resume.git",
   "plugins": ['@semantic-release/commit-analyzer', '@semantic-release/release-notes-generator', '@semantic-release/github']
 }
