@@ -7,16 +7,12 @@
 - GitHub: [mandragora-hub](https://github.com/mandragora-hub)
 
 
-# Experience
+# Experiencia
 ## **Ministerio de Hacienda y Economía**, Desarrollador Devops
 
 Santo Domingo, RD
 
 Oct 2021 – presente
-
-
-
-4 años 8 meses
 
 - *Optimización de Pipelines de CI/CD:* Reemplacé flujos de trabajo monolíticos con Jenkins y Docker, reduciendo significativamente los tiempos de despliegue y los costos de infraestructura.
 
@@ -34,17 +30,13 @@ Santo Domingo, RD
 
 Jun 2019 – Oct 2021
 
-
-
-2 años 5 meses
-
 - Desarrolle servicios backend para una plataforma de juego en tiempo real usando Typescript, Graphql, y PostgreSQL
 
 - Del lado del cliente, trabaje con interfaces de usuarios usando el framework de React/Next
 
 
 
-# Skills
+# Habilidades
 **lenguajes de programacion:** Java, Python, Node.js, Express, C++, JavaScript
 
 **Frontend & Mobile:** React/Next.js, Vue/Nuxt, NativeScript, TypeScript, HTML, CSS
@@ -53,7 +45,7 @@ Jun 2019 – Oct 2021
 
 **Infraestuctura & Datos:** Azure, Nexus, MySQL, MongoDB, JBoss/WildFly
 
-# Education
+# Educacion
 ## **Universidad Acción Pro Educación y Cultura (UNAPEC)**, Ingenieria en Software
 
 **Grado**

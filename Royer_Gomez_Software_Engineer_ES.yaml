@@ -14,7 +14,7 @@ cv:
       username: mandragora-hub
   custom_connections:
   sections:
-    experience:
+    experiencia:
       - company: Ministerio de Hacienda y Economía 
         position: Desarrollador Devops 
         date:
@@ -37,7 +37,7 @@ cv:
         highlights:
           - Desarrolle servicios backend para una plataforma de juego en tiempo real usando Typescript, Graphql, y PostgreSQL
           - Del lado del cliente, trabaje con interfaces de usuarios usando el framework de React/Next
-    skills:
+    Habilidades:
       - label: lenguajes de programacion
         details: Java, Python, Node.js, Express, C++, JavaScript
       - label: Frontend & Mobile
@@ -46,7 +46,7 @@ cv:
         details: Jenkins, GitHub Actions, Docker, Bash scripting, CMake
       - label: Infraestuctura & Datos
         details: Azure, Nexus, MySQL, MongoDB, JBoss/WildFly
-    education:
+    Educacion:
       - institution: Universidad Acción Pro Educación y Cultura (UNAPEC)
         area: Ingenieria en Software 
         degree: Grado

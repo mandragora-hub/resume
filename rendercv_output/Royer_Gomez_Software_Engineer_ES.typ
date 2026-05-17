@@ -97,7 +97,7 @@
 )
 
 
-== Experience
+== Experiencia
 
 #regular-entry(
   [
@@ -117,10 +117,6 @@
 
     Oct 2021 – presente
 
-    
-
-    4 años 8 meses
-
   ],
 )
 
@@ -138,14 +134,10 @@
 
     Jun 2019 – Oct 2021
 
-    
-
-    2 años 5 meses
-
   ],
 )
 
-== Skills
+== Habilidades
 
 #strong[lenguajes de programacion:] Java, Python, Node.js, Express, C++, JavaScript
 
@@ -155,7 +147,7 @@
 
 #strong[Infraestuctura & Datos:] Azure, Nexus, MySQL, MongoDB, JBoss\/WildFly
 
-== Education
+== Educacion
 
 #education-entry(
   [
