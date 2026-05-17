@@ -48,8 +48,8 @@ cv:
         details: Azure, Nexus, MySQL, MongoDB, JBoss/WildFly
     education:
       - institution: Universidad Acción Pro Educación y Cultura (UNAPEC)
-        area: Computer Science
-        degree: B.S.
+        area: Ingenieria en Software 
+        degree: Grado
         date:
         start_date: 2017-01
         end_date: 2025-05

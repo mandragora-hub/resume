@@ -54,9 +54,9 @@ Jun 2019 – Oct 2021
 **Infraestuctura & Datos:** Azure, Nexus, MySQL, MongoDB, JBoss/WildFly
 
 # Education
-## **Universidad Acción Pro Educación y Cultura (UNAPEC)**, Computer Science
+## **Universidad Acción Pro Educación y Cultura (UNAPEC)**, Ingenieria en Software
 
-**B.S.**
+**Grado**
 
 
 Santo Domingo, RD

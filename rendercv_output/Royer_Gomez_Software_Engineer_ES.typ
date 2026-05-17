@@ -159,7 +159,7 @@
 
 #education-entry(
   [
-    #strong[Universidad Acción Pro Educación y Cultura (UNAPEC)], Computer Science
+    #strong[Universidad Acción Pro Educación y Cultura (UNAPEC)], Ingenieria en Software
 
     - Grado en Ingenieria en Software: enfocado en arquitectura de software y eficiencia algorítmica.
 
@@ -175,6 +175,6 @@
 
   ],
   degree-column: [
-    #strong[B.S.]
+    #strong[Grado]
   ],
 )
