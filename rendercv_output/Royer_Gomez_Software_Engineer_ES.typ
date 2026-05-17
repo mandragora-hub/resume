@@ -6,8 +6,8 @@
   name: "Royer Gomez",
   title: "Royer Gomez - CV",
   footer: context { [#emph[Royer Gomez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in May 2026] ],
-  locale-catalog-language: "en",
+  top-note: [ #emph[Última actualización May 2026] ],
+  locale-catalog-language: "es",
   text-direction: ltr,
   page-size: "us-letter",
   page-top-margin: 0.7in,
@@ -101,59 +101,59 @@
 
 #regular-entry(
   [
-    #strong[Ministerio de Hacienda y Economía], Devops Engineer
+    #strong[Ministerio de Hacienda y Economía], Desarrollador Devops
 
-    - #emph[Optimized CI\/CD Pipelines:] Replaced monolithic workflows with Jenkins and Docker, significantly reducing deployment times and resource costs.
+    - #emph[Optimización de Pipelines de CI\/CD:] Reemplacé flujos de trabajo monolíticos con Jenkins y Docker, reduciendo significativamente los tiempos de despliegue y los costos de infraestructura.
 
-    - #emph[Cross-Functional Collaboration:] Led alignment between Dev and Infrastructure teams to standardize engineering practices and automated delivery.
+    - #emph[Colaboración Interfuncional:] Lideré la alineación entre los equipos de Desarrollo e Infraestructura para estandarizar las prácticas de ingeniería y automatizar la entrega de software.
 
-    - #emph[Cultural Transformation:] Spearheaded DevOps adoption through technical workshops and internal tools that reduced bureaucratic dependencies.
+    - #emph[Transformación Cultural:] Impulsé la adopción de la cultura DevOps mediante talleres técnicos y herramientas internas que redujeron las dependencias burocráticas.
 
-    - #emph[Custom Automation:] Engineered specialized scripts and tools to automate repetitive tasks, improving system oversight and team productivity.
+    - #emph[Automatización a la Medida:] Diseñé scripts y herramientas especializadas para automatizar tareas repetitivas, mejorando la supervisión del sistema y la productividad del equipo.
 
   ],
   [
     Santo Domingo, RD
 
-    Oct 2021 – present
+    Oct 2021 – presente
 
     
 
-    4 years 8 months
+    4 años 8 meses
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Media Revolution], Fullstack Developer
+    #strong[Media Revolution], Desarollador Fullstack
 
-    - I developed backend services for a real-time casino gaming platform using Typescript, GraphQL, and PostgreSQL.
+    - Desarrolle servicios backend para una plataforma de juego en tiempo real usando Typescript, Graphql, y PostgreSQL
 
-    - On the client side, I worked with user interfaces (UI) using React\/Next frameworks.
+    - Del lado del cliente, trabaje con interfaces de usuarios usando el framework de React\/Next
 
   ],
   [
     Santo Domingo, RD
 
-    June 2019 – Oct 2021
+    Jun 2019 – Oct 2021
 
     
 
-    2 years 5 months
+    2 años 5 meses
 
   ],
 )
 
 == Skills
 
-#strong[Backend & Languages:] Java, Python, Node.js, Express, C++, JavaScript
+#strong[lenguajes de programacion:] Java, Python, Node.js, Express, C++, JavaScript
 
 #strong[Frontend & Mobile:] React\/Next.js, Vue\/Nuxt, NativeScript, TypeScript, HTML, CSS
 
 #strong[DevOps & CI\/CD:] Jenkins, GitHub Actions, Docker, Bash scripting, CMake
 
-#strong[Infrastructure & Data:] Azure, Nexus, MySQL, MongoDB, JBoss\/WildFly
+#strong[Infraestuctura & Datos:] Azure, Nexus, MySQL, MongoDB, JBoss\/WildFly
 
 == Education
 
@@ -161,17 +161,17 @@
   [
     #strong[Universidad Acción Pro Educación y Cultura (UNAPEC)], Computer Science
 
-    - B.S. in Software Engineering: Focused on software architecture and algorithmic efficiency.
+    - Grado en Ingenieria en Software: enfocado en arquitectura de software y eficiencia algorítmica.
 
-    - Systems & Data: Specialized in C++ systems programming, MySQL, and MongoDB.
+    - Sistemas y datos: Especializados en programación de sistemas en C++, MySQL y MongoDB.
 
-    - Practical Engineering: Developed a C++\/Gtkmm Serial Port Monitor for hardware data tracking.
+    - Ingeniería práctica: Desarrollé un monitor de puerto serie en C++\/Gtkmm para el seguimiento de datos de hardware.
 
   ],
   [
     Santo Domingo, RD
 
-    Jan 2017 – May 2025
+    Ene 2017 – May 2025
 
   ],
   degree-column: [
